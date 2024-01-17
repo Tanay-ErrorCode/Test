@@ -7,5 +7,6 @@ print('javascript')
 print('c++')
 
 print('kotlin')
+print('kotlin')
 '''added new kotlin'''
 123
