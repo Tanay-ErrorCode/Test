@@ -19,3 +19,6 @@ print("hi")*8
 
 print("new line hai ye")
 #8here @ 8:33
+
+for i in range(10):
+  print(i)*i
