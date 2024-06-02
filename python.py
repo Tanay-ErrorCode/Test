@@ -11,4 +11,8 @@ print('kotlin')
 print('kotlin')
 '''added new kotlin'''
 123
-#here @ 8:33
+
+print("k jio")
+123*234
+print("hi")*8
+#8here @ 8:33
