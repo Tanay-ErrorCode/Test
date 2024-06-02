@@ -15,4 +15,7 @@ print('kotlin')
 print("k jio")
 123*234
 print("hi")*8
+
+
+print("new line hai ye")
 #8here @ 8:33
